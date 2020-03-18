@@ -1,3 +1,4 @@
+"use strict";
 let a = 0;
 var b = 1;
 const x = () => {
